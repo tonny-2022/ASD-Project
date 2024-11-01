@@ -2,7 +2,7 @@
 # Lost Item Problem statement 
 A lost item tracking system is needed to help users report, track, and retrieve lost items. The system should allow users to report lost items by providing details such as the item's description, location, and time of loss. Users should also be able to search through reported items that have been found to see if their lost item has been located. The system should support administrators in validating reported items, matching lost and found items, and notifying users when a match is found. The goal is to create an efficient, user-friendly, and secure solution that connects individuals with their lost items and minimizes unclaimed items.
 Functional Requirements:
-**User Registration and Authentication**
+1. **User Registration and Authentication**
     - Users must be able to register an account with a unique username, email, and password.
     - The system must verify the user's email and provide a login mechanism.
     - Password recovery should be available in case a user forgets their password.
